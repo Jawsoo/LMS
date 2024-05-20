@@ -28,7 +28,7 @@ How to Run the Program
 1. Compile the Classes: Ensure all classes (`Book`, `LibraryManager`, and `LibraryManagementSystem`) are compiled.
 2. Run the Main Class: Execute the `LibraryManagementSystem` class. This will start the console-based interface for the LMS.
 
-Text File Format
+
 To add books from a text file, the file should contain book details in the following format:
 
 1, The Legend of Josue Suazo, Josue Suazo
